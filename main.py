@@ -75,7 +75,8 @@ class Person():
             i = i + 1 # increment counter
 
 def main():
-    Person.generate_list(amount=5, name='myPeople')
+    # Test: creates a file named "people_test_list" with 15 people
+    Person.generate_list(amount=15, name='people_test_list')
 
 if __name__ == "__main__":
     main()
