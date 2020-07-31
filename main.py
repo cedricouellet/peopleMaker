@@ -47,13 +47,13 @@ class Person():
             Output: `.txt` file.
         '''
         people = []
-        for i in range(number_of_people):
+        for i in range(amount):
             people.append(Person.make_person())
 
-            if os.path.exists(filename + '.txt'):
-                f = open(filename + '.txt', 'a') # append to existing file
+            if os.path.exists(name + '.txt'):
+                f = open(name + '.txt', 'a') # append to existing file
             else:
-                f = open(filename + '.txt', 'x') # make new file
+                f = open(name + '.txt', 'x') # make new file
 
             i = 0 # init counter
             for p in people:
