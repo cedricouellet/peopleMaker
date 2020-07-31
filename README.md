@@ -1,6 +1,6 @@
 # peopleMaker
 
-# Basically, this is my first python project on GitHub.
+Basically, this is my first python project on GitHub.
 
 ## What it does: 
   Creates a .txt file from other files with info
