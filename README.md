@@ -1,4 +1,4 @@
-# peopleMaker
+# Random Person Generator
 
 Basically, this is my first python project on GitHub.
 
@@ -9,7 +9,5 @@ Basically, this is my first python project on GitHub.
   - color
   - job title
 ## Why?
-  In the past, when plating Watch_Dogs and Watch_Dogs 2, I often found myself how the population was generated.
-  In those games, you have access to people's private info by just pointing your cursor at them.
-  I wanted to try to (badly) emulate what that kind of automation looks like.
-  That is, by taking in a bunch of random info and combining it to make a person with (almost) unique info and in very little time.
+  Idk, mostly cause the way Watch_Dogs 1, 2 & Legion generate people 
+    is cool and i wanted to learn a bit about randomization using files in Python 3.
